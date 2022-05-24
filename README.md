@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KWAMEOB
+- 👋 Hi, I’m @KWAME
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently learning Google Data Analytics
 - 💞️ I’m looking to collaborate on anything about Data Analytics
