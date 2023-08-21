@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KWAME
-- 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Google Data Analytics
-- 💞️ I’m looking to collaborate on anything about Data Analytics
-- 📫 How to reach me kwameowusubaah@gmail.com
+- 👀 I have a keen interest in the fields of Business Analytics, Data Science, and Data Analytics.
+- 🌱 Currently, I am pursuing an MBA degree with a focus on Business Analytics at the University of West Florida.
+- 💞️ I am interested in collaborating on projects related to Data Analytics, Business Analytics, and Data Science. Please feel free to reach out to me. 
+- 📫 To contact me, please use the email address kwameowusubaah@gmail.com.ess kwameowusubaah@gmail.com.
 
 <!---
 KWAMEOB/KWAMEOB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
