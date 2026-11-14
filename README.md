@@ -9,7 +9,7 @@
 * [Cyclistic Bike Share Analysis (R)](https://github.com/KWAMEOB/CyclisticBikeShare)
 * [COVID-19 Portfolio Project (T-SQL)](https://github.com/KWAMEOB/PortfolioProject_COVID-19)
 * [Sales Data Analysis](https://github.com/KWAMEOB/Sales_Data_Analysis)
-* [Tableau dashboard: add title here](https://public.tableau.com/app/profile/kwame.owusu.baah/viz/shared/J5XTHZHRC)
+* [Tableau dashboard: COVID-19 Dashboard (https://public.tableau.com/app/profile/kwame.owusu.baah/viz/shared/J5XTHZHRC)
 * [Portfolio site](https://kwamethedatastoryteller.github.io) (verify this URL)
 
 ### 📫 Connect
